@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamadhoseinmarvi
 - 👀 I’m interested in python and data science and Hacking 
 - 🌱 I’m currently learning matlab
-- 💞️ I’m looking to collaborate on python workers
+- 💞️ I’m looking to collaborate on python Project
 - 📫 How to reach me : Mohamad.hosein.marviy@gmail.com 
 
 <!---
