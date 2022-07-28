@@ -1,13 +1,33 @@
-- 👋 Hi, I’m @mohamadhoseinmarvi
-- Welcome To my Office 
+@@ -1,4 +1,4 @@
 
-![](https://i.imgur.com/XhnYsP4.png)
-- 👀 I’m interested in data science and Hacking 
-- 🌱 I’m currently learning matlab
-- 💞️ I’m looking to collaborate on python Projects
-- 📫 How to reach me : Mohamad.hosein.marviy@gmail.com 
-
-<!---
-mohamadhoseinmarvi/mohamadhoseinmarvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=mohamadhoseinmarvi&color=green)
+  <div align="left">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+mohamadhoseinmarvi+%F0%9F%91%8B;" alt="Headline" />
+    </div>
+## I'm a self-taught coder.🌷
+<img src="https://i.postimg.cc/Jn0kJJ76/photo-2022-04-24-12-28-06-removebg-preview.png" align="right">
+✔ 🔭 I’m currently working on on my projotes.
+✔ 🌱 I’m currently learning all languages.
+✔ 👯  I'm looking for new projects and work opportunities.
+✔ 💬 Ask me about all languages.
+✔ 😄 Pronouns: his/he.
+✔⚡ Fun fact:  I am a persian.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
+<p align="left">
+	<a href="mailto:mohamad.hosein.marviy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/mohamadhoseinmarvi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/+989140468220"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/62378520b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://msng.link/o/?96=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+</p>
+## Languages and Tools:
+<a href="https://code.visualstudio.com/"> <img src="https://svgshare.com/i/gTp.svg" width="40px" ></a>
+<a href="https://html.com/"> <img src="https://svgshare.com/i/gW4.svg" width="40px" ></a>
+<a href="https://css-tricks.com/"> <img src="https://svgshare.com/i/gVd.svg" width="40px" ></a>
+<a href="https://www.javascript.com/"> <img src="https://svgshare.com/i/gWF.svg" width="40px" ></a>
+<a href="https://getbootstrap.com/"> <img src="https://svgshare.com/i/gVe.svg" width="40px" ></a>
+<a href="https://github.com"> <img src="https://svgshare.com/i/gVT.svg" width="40px" ></a>
+## 📈 Git hub status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadhoseinmarvi&theme=radical)
+## 📈 languages uses
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadhoseinmarvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
