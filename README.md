@@ -14,11 +14,11 @@
 
 ✔ 🌱 I’m interested in data science and Hacking .
 
-✔ 👯  I'm looking for new projects and work opportunities.
+✔ 🍻  I'm looking for new projects and work opportunities.
 
 ✔ 💬 Ask me about All languages.
 
-✔ 😄 Pronouns: his/he.
+✔ 🎮 Pronouns: his/he.
 
 ✔⚡ Fun fact:  I am a persian.
 
