@@ -6,7 +6,7 @@
 ## I'm a self-taught coder.🌷
 
 
-<img src="https://i.postimg.cc/Jn0kJJ76/photo-2022-04-24-12-28-06-removebg-preview.png" align="right">
+<img src="" align="right">
 
 
 
