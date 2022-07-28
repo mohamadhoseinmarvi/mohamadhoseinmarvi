@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mohamadhoseinmarvi&color=green)
   <div align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+mohamadhoseinmarvi+%F0%9F%91%8B;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+HOSEIN MARVI+%F0%9F%91%8B;" alt="Headline" />
     </div>
 
 ## I'm a self-taught coder.🌷
